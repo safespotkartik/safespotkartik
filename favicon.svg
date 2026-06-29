@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- SafeSpot grid mark: 8 navy squares + 1 lime centre -->
+  <rect x="0"  y="0"  width="30" height="30" rx="7" fill="#1D3C8B"/>
+  <rect x="35" y="0"  width="30" height="30" rx="7" fill="#1D3C8B"/>
+  <rect x="70" y="0"  width="30" height="30" rx="7" fill="#1D3C8B"/>
+  <rect x="0"  y="35" width="30" height="30" rx="7" fill="#1D3C8B"/>
+  <rect x="35" y="35" width="30" height="30" rx="7" fill="#D7DD2B"/>
+  <rect x="70" y="35" width="30" height="30" rx="7" fill="#1D3C8B"/>
+  <rect x="0"  y="70" width="30" height="30" rx="7" fill="#1D3C8B"/>
+  <rect x="35" y="70" width="30" height="30" rx="7" fill="#1D3C8B"/>
+  <rect x="70" y="70" width="30" height="30" rx="7" fill="#1D3C8B"/>
+</svg>
