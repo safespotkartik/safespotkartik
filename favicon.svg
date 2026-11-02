@@ -1,12 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <!-- SafeSpot grid mark: 8 navy squares + 1 lime centre -->
-  <rect x="0"  y="0"  width="30" height="30" rx="7" fill="#1D3C8B"/>
-  <rect x="35" y="0"  width="30" height="30" rx="7" fill="#1D3C8B"/>
-  <rect x="70" y="0"  width="30" height="30" rx="7" fill="#1D3C8B"/>
-  <rect x="0"  y="35" width="30" height="30" rx="7" fill="#1D3C8B"/>
-  <rect x="35" y="35" width="30" height="30" rx="7" fill="#D7DD2B"/>
-  <rect x="70" y="35" width="30" height="30" rx="7" fill="#1D3C8B"/>
-  <rect x="0"  y="70" width="30" height="30" rx="7" fill="#1D3C8B"/>
-  <rect x="35" y="70" width="30" height="30" rx="7" fill="#1D3C8B"/>
-  <rect x="70" y="70" width="30" height="30" rx="7" fill="#1D3C8B"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<rect width="128" height="128" rx="18" fill="#0B0B0A"/>
+<g stroke="#C7A765" stroke-width="6.5" fill="none">
+<rect x="12" y="12" width="30" height="30" rx="7"/><rect x="49" y="12" width="30" height="30" rx="7"/><rect x="86" y="12" width="30" height="30" rx="7"/>
+<rect x="12" y="49" width="30" height="30" rx="7"/><rect x="86" y="49" width="30" height="30" rx="7"/>
+<rect x="12" y="86" width="30" height="30" rx="7"/><rect x="49" y="86" width="30" height="30" rx="7"/><rect x="86" y="86" width="30" height="30" rx="7"/>
+</g><rect x="46" y="46" width="36" height="36" rx="9" fill="#C7A765"/>
 </svg>
